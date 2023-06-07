@@ -14,7 +14,6 @@ header {
 .header-img img {
   width: 100%;
   height: 100%;
-  border-radius: 2rem;
   object-fit: cover ;
   object-position: top;
 }
@@ -23,7 +22,7 @@ header {
   position: absolute;
   width: 94%;
   margin: 0 auto;
-  padding: 0 0.5rem;
+  padding: 0 0.2rem;
   top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -41,7 +40,7 @@ header {
 }
 .header-body button {
   border: none;
-  background-color: white;
+  background-color: skyblue;
   margin: 1rem 0;
   padding: 0.5rem 1.5rem;
   font-size: 1rem;

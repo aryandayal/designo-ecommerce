@@ -12,13 +12,6 @@ const Footer = ()=> {
 <Link to="https://twitter.com/rndayal" ><i class="fa fa-twitter"></i></Link>
 </div>
 
-<div class="row">
-<ul>
-<li><a href="#">Contact us</a></li>
-<li><a href="#">Privacy Policy</a></li>
-<li><a href="#">Terms & Conditions</a></li>
-</ul>
-</div>
 
 <div class="row">
 Designo Copyright © 2023 - All rights reserved || Designed By: Aryan Dayal

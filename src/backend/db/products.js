@@ -10,7 +10,7 @@ export const products = [
     image:
       "https://i.ibb.co/HX4fZJt/81-Kl-XXO2s5-L.jpg",
     brand: "designo",
-    price: 499,
+    price: 1499,
     categoryName: "3d Wallpapers",
     description:
       "specially for wall, water proof, forever colour embossing",
@@ -26,7 +26,7 @@ export const products = [
     image:
       "https://i.ibb.co/Z2vCg9n/Untitled-1.jpg",
     brand: "designo",
-    price: 799,
+    price: 1799,
     categoryName: "3d Wallpapers",
     description:
       "specially for wall, water proof, forever colour embossing",
@@ -42,7 +42,7 @@ export const products = [
     image:
       "https://i.ibb.co/4tRfJS8/illustration.png",
     brand: "designo",
-    price: 549,
+    price: 1549,
     categoryName: "Illustration",
     description:
       "computer graphic illustrated wallimages",
@@ -58,7 +58,7 @@ export const products = [
     image:
       "https://i.ibb.co/6v6pYrV/beautiful-illustrations-design-inspiration-37.png",
     brand: "designo",
-    price: 399,
+    price: 1399,
     categoryName: "Illustration",
     description:
       "computer graphic illustrated",
@@ -80,7 +80,7 @@ export const products = [
       "computer graphic illustrated wallimages",
     customerReviews: {
       avgValue: 2.8,
-      count: 218,
+      count: 1218,
     },
     isBestSeller: false,
   },
@@ -122,7 +122,7 @@ export const products = [
     image:
       "https://i.ibb.co/68xqY30/PHFS094-2.jpg",
     brand: "designo",
-    price: 699,
+    price: 1699,
     categoryName: "Painting",
     description:
       "Abstract Painting",
@@ -138,7 +138,7 @@ export const products = [
     image:
       "https://i.ibb.co/S3psWDY/illustration-ranganath-krishnamani-01.jpg",
     brand: "designo",
-    price: 599,
+    price: 1599,
     categoryName: "illustration",
     description:
       "Uses minimal colours Illustration",
@@ -154,7 +154,7 @@ export const products = [
     image:
       "https://i.ibb.co/2dMWBvB/ill.png",
     brand: "designo",
-    price: 949,
+    price: 1949,
     categoryName: "Illustration",
     description:
       "illustration",

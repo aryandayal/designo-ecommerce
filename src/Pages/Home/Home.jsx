@@ -21,7 +21,6 @@ const Home = () => {
           <img src={headerImage} alt="vectorImage" />
         </div>
         <div className="header-body">
-          <h2>Explore Desings</h2>
           <NavLink to="/products">
             <button
               onClick={() => filtersDispatch({ type: "setClear", payload: "" })}
@@ -34,7 +33,7 @@ const Home = () => {
       <section className="category-section">
         <div className="category-head">
           <h1>Category</h1>
-          <p>Discover more. Good things are waiting for you</p>
+          <p>Select what are you seeking</p>
         </div>
         <div className="category-container">
           {productState.categories.map(
